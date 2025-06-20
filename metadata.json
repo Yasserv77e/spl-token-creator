@@ -3,5 +3,29 @@
   "symbol": "ELEG",
   "description": "My custom token with image link",
   "image": "https://i.postimg.cc/DyfJBJV9/resized-image-1.png",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.postimg.cc/DyfJBJV9/resized-image-1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "48gR2z5W5niRvcLucf7bTG5E1nXZtpMsysNMqV3s2S8p",
+        "share": 100
+      }
+    ]
+  }
 }
