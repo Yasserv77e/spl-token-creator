@@ -2,7 +2,7 @@
   "name": "ELEGANCE TOKEN",
   "symbol": "ELEG",
   "description": "My custom token with image link",
-  "image": "https://i.postimg.cc/DyfJBJV9/resized-image-1.png",
+  "image": "https://magenta-key-chinchilla-340.mypinata.cloud/ipfs/bafkreia3b6afwrji4mogxovjbau2dnmkqdsy4j4ciyhd4ahnmexcs4u6qm",
   "attributes": [
     {
       "trait_type": "Rarity",
