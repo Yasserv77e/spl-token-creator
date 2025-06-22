@@ -3,29 +3,5 @@
   "symbol": "ELEG",
   "description": "My custom token with image link",
   "image": "https://gateway.pinata.cloud/ipfs/bafkreia3b6afwrji4mogxovjbau2dnmkqdsy4j4ciyhd4ahnmexcs4u6qm",
-  "attributes": [
-    {
-      "trait_type": "Rarity",
-      "value": "Common"
-    },
-    {
-      "trait_type": "Color",
-      "value": "Gold"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafkreia3b6afwrji4mogxovjbau2dnmkqdsy4j4ciyhd4ahnmexcs4u6qm",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "48gR2z5W5niRvcLucf7bTG5E1nXZtpMsysNMqV3s2S8p",
-        "share": 100
-      }
-    ]
-  }
+  "decimals": 9
 }
